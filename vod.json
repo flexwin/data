@@ -4,6 +4,11 @@
     "api": "https://haiwaikan.com/api.php/provide/vod/"
   },
   {
+    "name": "快鹰",
+    "api": " http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/"
+  },
+ 
+  {
     "name": "紅牛資源",
     "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"
   },
